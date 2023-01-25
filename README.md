@@ -9,4 +9,4 @@ Taken by [Bruce](https://github.com/blee77) for the [Lighthouse Labs Web Develop
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  *[Day 1](/Week_1/Day_1)
+  * [Day 1](/Week_1/Day_1)
